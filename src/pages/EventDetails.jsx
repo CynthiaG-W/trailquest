@@ -18,7 +18,7 @@ function EventDetails() {
   const [error, setError] = useState("");
 
   useEffect(() => {
-    fetch(`http://127.0.0.1:5000/api/events/${id}`)
+    fetch(`${import.meta.env.VITE_API_URL}/api/events/${id}`)
       .then((response) => {
         if (!response.ok) {
           throw new Error("Event not found");
