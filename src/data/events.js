@@ -1,0 +1,133 @@
+export const events = [
+  {
+    id: 1,
+    name: "Mt. Kilimambogo Hike – Ol Donyo Sabuk",
+    organiser: "Cushy Adventures",
+    date: "2026-09-19",
+    month: "SEP",
+    day: "19",
+    time: "5:00 AM",
+    location: "Ol Donyo Sabuk, near Thika",
+    difficulty: "Beginner",
+    distance: "13 km",
+    price: "KES 3,500",
+    verified: false,
+    verificationStatus: "Source Confirmed",
+    source: "Cushy Adventures",
+    registrationUrl:
+      "https://cushyadventures.co/events/64/register",
+    description:
+      "A historic summit hike through Ol Donyo Sabuk National Park with forest trails, wildlife habitats and panoramic views.",
+    lastVerified: "2026-09-17",
+  },
+
+  {
+    id: 2,
+    name: "Rurimeria Moorland Hike",
+    organiser: "Cushy Adventures",
+    date: "2026-09-26",
+    month: "SEP",
+    day: "26",
+    time: "4:00 AM",
+    location: "Rurimeria Hill, Aberdare Range",
+    difficulty: "Advanced",
+    distance: "18 km",
+    price: "Check organiser",
+    verified: false,
+    verificationStatus: "Source Confirmed",
+    source: "Cushy Adventures",
+    registrationUrl:
+      "https://cushyadventures.co/events",
+    description:
+      "A demanding high-altitude hike across the Aberdare moorlands for experienced hikers.",
+    lastVerified: "2026-09-17",
+  },
+
+  {
+    id: 3,
+    name: "Ngare Ndare Zaina Double Hike",
+    organiser: "Matembezi Travellers Club",
+    date: "2026-09-26",
+    month: "SEP",
+    day: "26",
+    time: "5:45 AM",
+    location: "Ngare Ndare",
+    difficulty: "Intermediate",
+    distance: "Check organiser",
+    price: "KES 10,300",
+    verified: false,
+    verificationStatus: "Source Confirmed",
+    source: "Matembezi Travellers Club",
+    registrationUrl:
+      "https://matembezitravel.com/expedition/",
+    description:
+      "A two-day adventure around Ngare Ndare and Zaina, known for forest scenery and turquoise swimming spots.",
+    lastVerified: "2026-09-17",
+  },
+
+  {
+    id: 4,
+    name: "Elephant Hills Hike",
+    organiser: "Matembezi Travellers Club",
+    date: "2026-10-03",
+    month: "OCT",
+    day: "03",
+    time: "4:00 AM",
+    location: "Aberdares",
+    difficulty: "Advanced",
+    distance: "20–22 km",
+    price: "KES 4,300",
+    verified: false,
+    verificationStatus: "Source Confirmed",
+    source: "Matembezi Travellers Club",
+    registrationUrl:
+      "https://matembezitravel.com/expedition/elephant-hills-hike-3/",
+    description:
+      "A tough Aberdare hike through forest trails, bamboo thickets and rocky moorlands.",
+    lastVerified: "2026-09-17",
+  },
+
+  {
+    id: 5,
+    name: "Mt. Longonot Hike",
+    organiser: "Cushy Adventures",
+    date: "2026-10-17",
+    month: "OCT",
+    day: "17",
+    time: "5:00 AM",
+    location: "Mt. Longonot National Park",
+    difficulty: "Beginner",
+    distance: "13 km",
+    price: "KES 3,500",
+    verified: false,
+    verificationStatus: "Source Confirmed",
+    source: "Cushy Adventures",
+    registrationUrl:
+      "https://cushyadventures.co/events/67/register",
+    description:
+      "Climb the dormant volcano, reach the crater rim and take in panoramic views across the Great Rift Valley.",
+    lastVerified: "2026-09-17",
+  },
+
+  {
+    id: 6,
+    name: "KEFRI Hike Sunday",
+    organiser: "Matembezi Travellers Club",
+    date: "2026-10-25",
+    month: "OCT",
+    day: "25",
+    time: "7:15 AM",
+    location: "Nderi, near Sigona",
+    difficulty: "Beginner",
+    distance: "12–13 km",
+    price: "KES 2,800",
+    verified: false,
+    verificationStatus: "Source Confirmed",
+    source: "Matembezi Travellers Club",
+    registrationUrl:
+      "https://matembezitravel.com/expedition/kefri-hike-sunday/",
+    description:
+      "A beginner-friendly forest hike through indigenous forest, open fields and bamboo thickets close to Nairobi.",
+    lastVerified: "2026-09-17",
+  },
+];
